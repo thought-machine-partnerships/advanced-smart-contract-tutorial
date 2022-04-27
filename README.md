@@ -50,7 +50,6 @@ Requirements:
 - Charging of the interest should happen once a month at the start of the day of expected repayment, with application precision of 2 decimal places
 
 ## Requirement mapping
----
 
 Let us get started with the requirements for a loan product we want to write. We will look at each requirement one by one and consider how they should be represented in the Smart Contract code. The first thing to look for in the requirements is if there are any potential Contract Parameters that have to be created. Once we extract all Contract Parameters from them, the next thing is to consider what actions need to be performed, and at what moment of the account lifecycle. These two steps are repeated for each requirement.
 
